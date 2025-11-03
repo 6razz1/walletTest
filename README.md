@@ -1,4 +1,4 @@
-# Camlin Test
+# Wallet Test
 <br>
 
 ## RUN CONTAINERIZED VERSION
